@@ -4,3 +4,4 @@ img2nn
 *.swp
 compile_commands.json
 *.mp4
+.cache/
