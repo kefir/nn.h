@@ -2,3 +2,5 @@ xor
 adder
 img2nn
 *.swp
+compile_commands.json
+*.mp4
